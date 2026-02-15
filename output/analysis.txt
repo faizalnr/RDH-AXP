@@ -1,0 +1,17 @@
+AXP-RDH Experimental Analysis
+=============================
+Image size           : 300 x 400
+Threshold (T)        : 4
+Embedded bits        : 1693
+Payload (bpp)        : 0.014108
+MSE (Embedded)       : 0.100033
+MSE (Recovered)      : 0.210317
+PSNR (Embedded)      : 58.1294 dB
+PSNR (Recovered)     : 54.902066708988585
+SSIM (Embedded)      : 0.999685
+SSIM (Recovered)     : 0.999331
+Perfect recovery     : False
+
+Recovered Secret:
+U:`ø²"Di#vÎÚ¾mQ(¯§På5<,ÕyÜl¼[ëØ8ùÁûÍÚçæLbxVX$ÃÕ3ÏòyÑ8Ð¸õ­FÝ´¤;§lWífÕÁÕõ³Ðd£Ü,§4Ôþ$ìtÏµ?¹³ÝX(®õtÚP±×¨R/F«Y7-ºwqÿSrØl·èG7Û¶ïÒq¥?Xuúbthå4HøåI÷;JÁää.ªÕø$hÝeKm	
+^deã6ås
